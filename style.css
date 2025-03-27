@@ -126,6 +126,7 @@ section {
     justify-content: center;
     align-items: center;
     position: relative;
+    cursor: pointer;
 }
 
 .team-container{
